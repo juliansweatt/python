@@ -1,0 +1,6 @@
+[submodule "stock-data"]
+	path = stock-data
+	url = https://github.com/juliansweatt/stock-data
+[submodule "stock-data-part2"]
+	path = stock-data-part2
+	url = https://github.com/juliansweatt/stock-data-part2
